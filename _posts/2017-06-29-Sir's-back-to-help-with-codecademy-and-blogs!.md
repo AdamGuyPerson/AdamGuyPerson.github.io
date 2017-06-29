@@ -17,10 +17,10 @@ published: true
 
 
 <table>
-  <tr>
+  <tb>
     <td>Starting point:</td>
     <td>22%</td>
-  </tr>
+  </tb>
   <tr>
     <td>Target for this lesson?</td>
     <td>26%</td>
