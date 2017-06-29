@@ -55,7 +55,7 @@ font: "Courier New", monospace;
    width: 100%;
 
 
-   border: 15px #642EFE ;
+   border: 15px #8A2BE2 ;
 
 
    border-style: inset;
@@ -64,7 +64,7 @@ font: "Courier New", monospace;
 }
 
 body {
-	background-photo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Color_icon_purple.svg/1024px-Color_icon_purple.svg.png;
+	background:$white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
