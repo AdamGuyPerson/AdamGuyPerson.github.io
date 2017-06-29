@@ -10,7 +10,7 @@ published: true
   <tr>
     <td>Title: </td>
     <td>He's Back! </td>
-    <td>Date: </td>
+    <td> Date: </td>
     <td>28/6/17</td>
   </tr>
 </table>
