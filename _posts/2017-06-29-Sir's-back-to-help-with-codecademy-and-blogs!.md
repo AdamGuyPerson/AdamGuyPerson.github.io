@@ -8,26 +8,26 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
-    <td>He's Back!</td>
-    <td>Date</td>
+    <td>Title :</td>
+    <td>He's Back! </td>
+    <td>Date: </td>
     <td>28/6/17</td>
   </tr>
 </table>
 
 
 <table>
-  <tb>
-    <td>Starting point:</td>
-    <td>22%</td>
-  </tb>
   <tr>
-    <td>Target for this lesson?</td>
+    <td>Starting point: </td>
+    <td>22%</td>
+  </tr>
+  <tr>
+    <td>Target for this lesson? </td>
     <td>26%</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+(add details to "Lesson Review") </td>
     <td> Not quite, 25%</td>
   </tr>
 </table>
