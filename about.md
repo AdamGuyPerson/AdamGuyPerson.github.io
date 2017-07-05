@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: Get Personal ;)
 permalink: /about/
 ---
 
-A bit of a N3RD!
+Join the PS4 club!
 
-### Reasons?
+### Reasons for this blog?
 
-I am doing this blog because homework calls.
+I am doing this blog because it is IT homework at school.
