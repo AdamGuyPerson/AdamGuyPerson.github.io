@@ -1,8 +1,8 @@
 ---
-title: Sir's back to help with codecademy and blogs!
+title: Looking at Google sheets and the first lesson of yr 9!
 layout: post
 author: adam.madslien
-permalink: /sir's-back-to-help-with-codecademy-and-blogs!/
+permalink: /Looking-at-Google-sheets-and-the-first-lesson-of-yr-9!/
 source-id: 1EuFsJ5OsFs8y8oQvFkQCrS-aJ0NFL9heZbbzAoUHuKA
 published: true
 ---
