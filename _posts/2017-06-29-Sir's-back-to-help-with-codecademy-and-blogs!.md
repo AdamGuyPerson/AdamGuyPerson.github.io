@@ -8,27 +8,27 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title: </td>
-    <td>He's Back! </td>
-    <td> Date: </td>
-    <td>28/6/17</td>
+    <td>Title</td>
+    <td>Looking at Google sheets and first lesson of yr 9</td>
+    <td>Date</td>
+    <td>6/9/17</td>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <td>Starting point: </td>
-    <td>22%</td>
+    <td>Starting point:</td>
+    <td>Start</td>
   </tr>
   <tr>
-    <td>Target for this lesson? </td>
-    <td>26%</td>
+    <td>Target for this lesson?</td>
+    <td>Finish</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
-(add details to "Lesson Review") </td>
-    <td> Not quite, 25%</td>
+(add details to "Lesson Review")</td>
+    <td> No</td>
   </tr>
 </table>
 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>This lesson I grouped in with Michael, Josh and George and we all helped each other in any way we could to get through each go. Even if Michael had done it before, he still found it quite hard doing it for a second time so it helped him be reminded of previous activities.</td>
+    <td>We were taught the tools to make a grid and also how to change the colour of a box. I didn't finish because I couldn't remember how to do the prices including the quantities and the range, however I did find how to make sums and products. I need to work on the sheet at home until it is finished.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>We had to stop during the lesson to see our blogs again and because it was a while since we last did this, we looked at others to see which ones we shouldn't impersonate and which ones we should. I do need to work on my memory from previous activities to apply later on and so I can remember how to edit my blog properly. I also need to write more in this format.</td>
+    <td>I found it difficult to remember how to make a total price and to get only one row in British pounds sterling. And how to use the range and so I should find a way to remember the instructions.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will make my blog look better and make sure my blog is a supreme role model for the other students meaning that I won’t have to worry about much more than writing a blog each week. I should also help Josh as he’s 1 or 2 behind me so those activities are fresh in my brain. I also shouldn’t be afraid to ask the teacher for help when I desperately need it and none of my fellow pupils can work it out either.</td>
+    <td>I could note down the instructions and then add them to the bottom of each blog post. I could also ask the people next to me or the teacher to repeat the instructions and then I do it.</td>
   </tr>
 </table>
 
