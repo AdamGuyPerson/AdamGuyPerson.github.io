@@ -1,11 +1,13 @@
 ---
-title: Google Sheets Are engaging
+title: Google Sheets Are difficult
 layout: post
 author: adam.madslien
 permalink: /google-sheets-are-engaging/
 source-id: 1npGjbcc3wshcnck3TvMbAja6BjavBF30Tnhu3Ru6UB4
 published: true
 ---
+ 
+
 <table>
   <tr>
     <td>Title</td>
@@ -41,20 +43,20 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Today I learned how to create ranges which Mr. Keen said would come in handy. We also did the difficult bit where we found the sum of price of all of my Pizzas.
+    <td>I found that it is very hard to keep up with the work. I would go to find Mr. Keen but I am busy every lunchtime. However I did try my best and did what I could in the lesson, however I tangled myself up a bit where I know how to do the step three after what I'm already on.
 </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I do need to work on my memory and not have to refer to my friends constantly. I also need to work faster as I wasn't so much in the flow of working.</td>
+    <td>I my memory and position were a bit of a problem but I knew that in most adult positions, I would be scorned for asking what to do so I thought I'd try and train my working-out skills, however that is not the best idea.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I need to work on getting a good percentage to use easily when using it.</td>
+    <td>I need to try and get as far as I can on my own and if it gets too hard, I’ll ask for help. My second blog seems to have disappeared from my website and docs so I'll look into that.</td>
   </tr>
 </table>
 
